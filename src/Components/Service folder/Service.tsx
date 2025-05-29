@@ -1,4 +1,3 @@
-import React from "react";
 import quotes from "../../assets/quotes.svg";
 import Janemiller from "../../assets/Janemiller.png";
 import "./Service.css";

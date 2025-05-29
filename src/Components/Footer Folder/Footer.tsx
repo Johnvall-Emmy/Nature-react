@@ -1,4 +1,3 @@
-import React from "react";
 import logogreen from "./../../assets/logo-green.svg";
 import "./Footer.css";
 

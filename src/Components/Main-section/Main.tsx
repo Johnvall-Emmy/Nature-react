@@ -1,4 +1,3 @@
-import React from "react";
 import "./Main.css";
 import service1 from "./../../assets/service-1.jpg";
 import service2 from "../../assets/service-2.jpg";

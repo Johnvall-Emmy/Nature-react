@@ -1,4 +1,3 @@
-import React from "react";
 import leaf from "../../assets/leaf.jpg";
 import "./Aboutus.css";
 
